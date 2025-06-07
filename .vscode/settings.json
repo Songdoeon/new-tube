@@ -1,0 +1,4 @@
+{
+    "typescript.tsdk": "node_midules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true
+}
